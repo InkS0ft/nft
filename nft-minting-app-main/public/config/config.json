@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xD7228DC3D8E7ABedA59415A87dF258364EbcB23f",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xd7228dc3d8e7abeda59415a87df258364ebcb23f",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Inksoft NFT",
+  "SYMBOL": "ISNFT",
+  "MAX_SUPPLY": 90,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/inksoft",
+  "SHOW_BACKGROUND": true
+}
